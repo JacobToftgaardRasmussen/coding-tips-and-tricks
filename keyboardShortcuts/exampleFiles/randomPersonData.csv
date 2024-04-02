@@ -1,0 +1,11 @@
+firstName ,birthday   ,age ,country ,pets ,occupation         ,favoriteColor ,maritalStatus ,educationLevel      ,hasCar
+John      ,1990-05-15 , 34 ,USA     ,Dog  ,Engineer           ,Blue          ,Married       ,Bachelor's Degree   ,Yes
+Emily     ,1988-09-20 , 36 ,Canada  ,Cat  ,Doctor             ,Green         ,Single        ,Doctorate Degree    ,Yes
+Michael   ,1975-03-10 , 49 ,UK      ,Bird ,Teacher            ,Red           ,Divorced      ,Master's Degree     ,Yes
+Sophia    ,1995-11-25 , 29 ,France  ,None ,Artist             ,Yellow        ,Single        ,High School Diploma ,No
+Daniel    ,1982-07-03 , 42 ,Germany ,Dog  ,Accountant         ,Purple        ,Married       ,Bachelor's Degree   ,Yes
+Isabella  ,1998-01-30 , 26 ,Italy   ,Fish ,Software Developer ,Orange        ,Single        ,Bachelor's Degree   ,Yes
+Ethan     ,1989-06-18 , 35 ,USA     ,None ,Marketing Manager  ,Black         ,Married       ,Master's Degree     ,Yes
+Olivia    ,1993-12-05 , 31 ,Canada  ,Cat  ,Nurse              ,White         ,Single        ,Bachelor's Degree   ,No
+Matthew   ,1978-08-14 , 46 ,UK      ,None ,Lawyer             ,Gray          ,Married       ,Doctorate Degree    ,Yes
+Ava       ,2000-04-22 , 24 ,France  ,Dog  ,Entrepreneur       ,Pink          ,Single        ,Bachelor's Degree   ,Yes
