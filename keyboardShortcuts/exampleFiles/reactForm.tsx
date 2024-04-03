@@ -16,6 +16,15 @@ export default function Form() {
   return (
     <form action={(formData: FormData) => console.log(formData)}>
       <input type="text" />
+      <input type="text" />
+      <input type="text" />
+      <input type="text" />
+      <input type="text" />
+      <input type="text" />
+      <input type="text" />
+      <input type="text" />
+      <input type="text" />
+      <input type="text" />
     </form>
   )
 }
